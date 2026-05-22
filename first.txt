@@ -1,2 +1,5 @@
 This is the first text of the first.txt file. 
 I created this to check that commit had deleted. 
+
+checking the git stash
+git revert check
